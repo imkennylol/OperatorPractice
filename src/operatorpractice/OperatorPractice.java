@@ -30,7 +30,7 @@ public class OperatorPractice {
         System.out.println("The sum is: " + sum);
         
         //TODO: Calculate the average of the test scores
-        double average = sum/3.00000000000000000000;
+        double average = sum/3.0;
         
         //TODO: Output the average.
         System.out.println("The average test score is: " + average);
